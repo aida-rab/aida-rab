@@ -40,7 +40,5 @@ Let’s connect and collaborate! Feel free to reach out for project ideas or dis
 | [**Data Pipelines E-Scooter**](https://github.com/aida-rab/Data-Pipelines_E-Scooter) | Mobility analytics pipeline for E-Scooters. |
 | [**Unsupervised ML - Clustering Songs**](https://github.com/aida-rab/Unsupervised-ML---Clustering-Songs) | Clustering songs using unsupervised ML. |
 | [**SQL Prep**](https://github.com/aida-rab/SQL-Prep) | SQL exercises for mastering queries, window functions. |
-| [**Desktop Tutorial**](https://github.com/aida-rab/desktop-tutorial) | GitHub Desktop tutorial repository. |
-| [**DS**](https://github.com/aida-rab/DS) | SQL, Tableau DS Bootcamp. |
 
 ---
