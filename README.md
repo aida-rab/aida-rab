@@ -39,6 +39,7 @@ Let’s connect and collaborate! Feel free to reach out for project ideas or dis
 | [**Supervised ML Classification**](https://github.com/aida-rab/Supervised_ML_Classification) | Predicting housing prices with supervised ML. |
 | [**Data Pipelines E-Scooter**](https://github.com/aida-rab/Data-Pipelines_E-Scooter) | Mobility analytics pipeline for E-Scooters. |
 | [**Unsupervised ML - Clustering Songs**](https://github.com/aida-rab/Unsupervised-ML---Clustering-Songs) | Clustering songs using unsupervised ML. |
-| [**SQL Prep**](https://github.com/aida-rab/SQL-Prep) | SQL exercises for mastering queries, window functions. |
+| [**sql_business_exploration**](https://github.com/aida-rab/sql_business_exploration) | Eniac's Expansion Strategy – Data-Driven Decision|
+| [**python_business_exploration**](https://github.com/aida-rab/python_business_exploration) | Eniac Discount Analysis: Impact on Revenue & Customer Retention|
 
 ---
